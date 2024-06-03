@@ -1,4 +1,5 @@
 # Webshop
+![Recording 2024-06-03 at 22 44 54](https://github.com/BamlakT/efrei_webshop-tp-Lsi_2024/assets/97687694/3b7743a7-cd99-4ece-92c8-7e0d22606854)
 
 ## Description
 
